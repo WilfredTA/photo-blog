@@ -13,7 +13,6 @@ header, nav, nav a {
 }
 
 header, article, article img:nth-of-type(2n) {
-
 	box-sizing: border-box;
 }
 
@@ -43,7 +42,6 @@ nav a{
 }
 
 nav a.active {
-
 	color: #fcfff5;
 	background: #91aa9d;
 }
